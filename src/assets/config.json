@@ -1,12 +1,12 @@
 {
   "CentralSystemServer": {
     "protocol": "https",
-    "host": "dashboard.mapletynetechnologies.com",
+    "host": "mapletynetechnologies.com",
     "port": 443,
 		"pollIntervalSecs": 10
   },
   "Authorization": {
-    "debug": false
+    "debug": true
   },
   "Asset": {
     "maxImageKb": 800
