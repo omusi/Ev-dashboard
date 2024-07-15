@@ -1,7 +1,7 @@
 {
   "CentralSystemServer": {
     "protocol": "https",
-    "host": "mapletynetechnologies.com",
+    "host": "dashboard.mapletynetechnologies.com",
     "port": 443,
 		"pollIntervalSecs": 10
   },
