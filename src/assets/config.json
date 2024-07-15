@@ -1,7 +1,7 @@
 {
   "CentralSystemServer": {
     "protocol": "https",
-    "host": "dashboard.mapletynetechnologies.com",
+    "host": "d3ej05a7cgyd7p.cloudfront.net",
     "port": 443,
 		"pollIntervalSecs": 10
   },
