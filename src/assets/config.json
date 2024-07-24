@@ -1,12 +1,12 @@
 {
   "CentralSystemServer": {
     "protocol": "https",
-    "host": "localhost",
+    "host": "ec2-54-86-126-72.compute-1.amazonaws.com",
     "port": 443,
 		"pollIntervalSecs": 10
   },
   "Authorization": {
-    "debug": false
+    "debug": true
   },
   "Asset": {
     "maxImageKb": 800
