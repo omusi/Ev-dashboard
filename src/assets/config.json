@@ -1,7 +1,7 @@
 {
   "CentralSystemServer": {
     "protocol": "http",
-    "host": "172.31.22.7",
+    "host": "ip-172-31-22-7.ec2.internal",
     "port": 80,
 		"pollIntervalSecs": 10
   },
