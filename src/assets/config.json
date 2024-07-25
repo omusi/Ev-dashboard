@@ -1,7 +1,7 @@
 {
   "CentralSystemServer": {
     "protocol": "http",
-    "host": "ec2-54-86-126-72.compute-1.amazonaws.com",
+    "host": "ec2-50-16-158-113.compute-1.amazonaws.com",
     "port": 80,
 		"pollIntervalSecs": 10
   },
